@@ -1,7 +1,7 @@
 import React, { useEffect, useRef, useState  } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import {  useNavigate } from "react-router-dom";
-import { ADDTODO,  REMOVETODO, TOOGLETODO } from "../Store/Feed/fedd.actions";
+import { ADDTODO,  REMOVETODO, TOOGLETODO } from "../Store/Todo/Todo.actions";
 import { Link } from "react-router-dom";
 import styles from "./all.module.css";
 

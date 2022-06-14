@@ -1,4 +1,4 @@
-import { addTodo, editTodo, rmTodo, toggleTodo } from "./feed.types";
+import { addTodo, editTodo, rmTodo, toggleTodo } from "./Todo.types";
 
 
 
